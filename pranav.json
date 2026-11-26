@@ -1,32 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "03:20:13 AM 26-11-2026",
+  "last update time": "09:27:51 AM 26-11-2026",
   "matches": [
-    {
-      "event_category": "Cricket",
-      "match_id": 4249675,
-      "title": "Tasmania vs Western Australia (Sheffield Shield, 2026/27)",
-      "match_name": "Tasmania vs Western Australia",
-      "event_name": "Sheffield Shield, 2026/27",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/4249675_53087_WAU_TAS_FC-WEB.jpg",
-      "team_1": "Tasmania",
-      "team_2": "Western Australia",
-      "status": "PAUSED",
-      "startTime": "08:00:00 AM 23-11-2026"
-    },
-    {
-      "event_category": "Cricket",
-      "match_id": 4249676,
-      "title": "South Australia vs Victoria (Sheffield Shield, 2026/27)",
-      "match_name": "South Australia vs Victoria",
-      "event_name": "Sheffield Shield, 2026/27",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/4249676_53087_SAU_VCT_FC-WEB.jpg",
-      "team_1": "South Australia",
-      "team_2": "Victoria",
-      "status": "PAUSED",
-      "startTime": "05:30:00 AM 24-11-2026"
-    },
     {
       "event_category": "Cricket",
       "match_id": 4250420,
@@ -136,6 +112,18 @@
       "startTime": "03:30:00 PM 26-11-2026"
     },
     {
+      "event_category": "Cricket",
+      "match_id": 4251055,
+      "title": "Abu Dhabi Knight Riders vs MI Emirates (DP World ILT20 2026)",
+      "match_name": "Abu Dhabi Knight Riders vs MI Emirates",
+      "event_name": "DP World ILT20 2026",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/4251055_53162_ADKR_MIE_FC-WEB.jpg",
+      "team_1": "Abu Dhabi Knight Riders",
+      "team_2": "MI Emirates",
+      "status": "UPCOMING",
+      "startTime": "08:00:00 PM 26-11-2026"
+    },
+    {
       "event_category": "Football",
       "match_id": 4249027,
       "title": "BG Pathum United vs Lion City Sailors (AFC Champions League Two 2026-27)",
@@ -173,18 +161,6 @@
     },
     {
       "event_category": "Cricket",
-      "match_id": 4251055,
-      "title": "Abu Dhabi Knight Riders vs MI Emirates (DP World ILT20 2026)",
-      "match_name": "Abu Dhabi Knight Riders vs MI Emirates",
-      "event_name": "DP World ILT20 2026",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/4251055_53162_ADKR_MIE_FC-WEB.jpg",
-      "team_1": "Abu Dhabi Knight Riders",
-      "team_2": "MI Emirates",
-      "status": "UPCOMING",
-      "startTime": "08:00:00 PM 26-11-2026"
-    },
-    {
-      "event_category": "Cricket",
       "match_id": 4251087,
       "title": "IAS Invincibles vs Yalla Shabab Giants (Oman D20 2026)",
       "match_name": "IAS Invincibles vs Yalla Shabab Giants",
@@ -206,18 +182,6 @@
       "team_2": "Huddersfield Town A.F.C.",
       "status": "UPCOMING",
       "startTime": "01:30:00 AM 27-11-2026"
-    },
-    {
-      "event_category": "Golf",
-      "match_id": 4250886,
-      "title": "Day 1 vs Málaga, Spain (Andalucia Costa Del Sol Open De Espana 2026)",
-      "match_name": "Day 1",
-      "event_name": "Andalucia Costa Del Sol Open De Espana 2026",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg",
-      "team_1": "Day 1",
-      "team_2": "Málaga, Spain",
-      "status": "UPCOMING",
-      "startTime": "02:15:00 PM 26-11-2026"
     },
     {
       "event_category": "Cricket",
@@ -242,6 +206,18 @@
       "team_2": "OCA Invincibles Women",
       "status": "UPCOMING",
       "startTime": "11:30:00 AM 27-11-2026"
+    },
+    {
+      "event_category": "Golf",
+      "match_id": 4250886,
+      "title": "Day 1 vs Málaga, Spain (Andalucia Costa Del Sol Open De Espana 2026)",
+      "match_name": "Day 1",
+      "event_name": "Andalucia Costa Del Sol Open De Espana 2026",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg",
+      "team_1": "Day 1",
+      "team_2": "Málaga, Spain",
+      "status": "UPCOMING",
+      "startTime": "02:15:00 PM 26-11-2026"
     },
     {
       "event_category": "Cricket",
@@ -470,6 +446,18 @@
       "team_2": "Lusail International Circuit",
       "status": "UPCOMING",
       "startTime": "10:30:00 PM 27-11-2026"
+    },
+    {
+      "event_category": "Cricket",
+      "match_id": 4250423,
+      "title": "Melbourne Renegades Women vs Melbourne Stars Women (Women's Big Bash League, 2026)",
+      "match_name": "Melbourne Renegades Women vs Melbourne Stars Women",
+      "event_name": "Women's Big Bash League, 2026",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/4250423_53125_MR-W_MS-W_fc-web_1793352702065.jpg",
+      "team_1": "Melbourne Renegades Women",
+      "team_2": "Melbourne Stars Women",
+      "status": "UPCOMING",
+      "startTime": "10:10:00 AM 28-11-2026"
     }
   ],
   "Telegram": "https://t.me/addlist/6qALMSdKoVVkNWI1",
